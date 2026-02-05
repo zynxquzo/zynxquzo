@@ -6,7 +6,7 @@
 > **시작은 늦었어도 몰입의 깊이는 누구보다 깊습니다.**
 
 🌱 멈추지 않고 꾸준히 성장하는 개발자 <br/>
-`#비전공자` `#끈기` `#매일_잔디_심` `#몰입`
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zynxquzo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prettymysky@gmail.com) 
 
