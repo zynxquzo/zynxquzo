@@ -3,7 +3,7 @@
 </div>
 
 ## ♾️ Unstoppable Loop
-> **🌱 멈추지 않고 꾸준히 성장하는 개발자** <br/>
+> **🌱 꾸준히 성장하는 개발자** <br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zynxquzo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prettymysky@gmail.com) 
