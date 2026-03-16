@@ -18,4 +18,4 @@
 
 
 ##
-![](https://komarev.com/ghpvc/?username=zynxquzo&color=blue)
+![](https://komarev.com/ghpvc/?username=zynxquzo&color=green)
