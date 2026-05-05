@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8f4fe,100:018bd0&height=120&text=🚀Learning%20by%20Doing%20🔥&animation=&fontColor=5c5c5c&fontSize=40" />
 
-  ## ♾️ Unstoppable Loop
-  > **🌱 A Budding Developer** <br/>
+  ## 🌱 A Budding Developer <br/>
   
   ## 🌐 Socials
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zynxquzo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prettymysky@gmail.com)
