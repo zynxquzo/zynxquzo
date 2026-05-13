@@ -4,7 +4,7 @@
   ## 🌱 A Budding Developer <br/>
   
   ## 🌐 Socials
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zynxquzo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prettymysky@gmail.com)
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prettymysky@gmail.com)
   
   
   ## 💻 Tech Stack
