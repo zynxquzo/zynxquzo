@@ -1,4 +1,4 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8f4fe,100:018bd0&height=120&text=🔥Learning%20by%20Doing%20🔥&animation=&fontColor=5c5c5c&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8addfd,100:fad0c1&height=120&text=🔥Learning%20by%20Doing%20🔥&animation=&fontColor=5c5c5c&fontSize=35" />
 
   ## 🌱 A Budding Developer <br/>
   
