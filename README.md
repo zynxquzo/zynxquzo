@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8addfd,100:fad0c1&height=120&text=🔥Learning%20by%20Doing%20🔥&animation=&fontColor=5c5c5c&fontSize=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8addfd,100:fad0c1&height=120&text=🐻‍❄️%20AI%2FLLM%20Engineer%20in%20Progress%20🚀&animation=&fontColor=5c5c5c&fontSize=35" />
 
 ## 🌐 Socials
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prettymysky@gmail.com)
