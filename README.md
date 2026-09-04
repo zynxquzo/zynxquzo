@@ -44,7 +44,6 @@ LangGraph 기반 9-node 멀티에이전트 RAG 파이프라인으로 HR 문서 �
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-icnflightalert.site-8addfd?style=plastic&logo=vercel&logoColor=white)](https://icnflightalert.site)
 
-- 하이브리드 RAG 구조 재설계로 검색 병목 75% 개선
 - Function Calling 기반 에이전트로 실시간 항공편 조회
 - APScheduler로 항공편 상태 모니터링 및 알림
 - pgvector + ChromaDB 벡터 스토어 이중 구성
